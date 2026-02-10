@@ -1,0 +1,90 @@
+
+***** SymSpice --- v2.4.0.0528 *****
+
+Job started at	21.53.42   02/12/2025.
+
+Loading file: 'E:\Symica Free\share\spice.ini'. Please wait...       (21:53:42)
+Loading file: 'E:\Новая папка\LR_2_SH\MEM\simulation\STAT_mem\netlistMEM'. Please wait...                                                            (21:53:42)
+Loading file: 'E:\Symica Free\lib\models\cmos.lib'. Please wait...   (21:53:42)
+Loading file: 'E:\Новая папка\LR_2_SH\MEM\simulation\STAT_mem\netlistMEM'. Please wait...                                                            (21:53:42)
+
+Netlist summary (root)                                              (21:53:42)
+
+  Nodes   	8
+  Elements	8
+  _warning_: Multithreading is not available in Free Edition. "multithread" set to 1
+
+Multithreading
+	Number of used threads		: 1
+	Maximum number of threads	: 12
+
+  _warning_: Automatic model selector cannot find appropriate model (L=0.12 W=0.32). Model 'pmos_mod' selected. Element : M4
+1 same warnings suppressed.
+  _warning_: Automatic model selector cannot find appropriate model (L=0.12 W=2). Model 'nmos_mod' selected. Element : M0
+3 same warnings suppressed.
+Start creating models...
+
+  _warning_: Value RDeff less than or equal to zero. Element : M0
+  _warning_: Value RSeff less than or equal to zero. Element : M0
+  _warning_: Value PDeff = 0 less than Weff. Element : M0
+  _warning_: Value PSeff = 0 less than Weff. Element : M0
+  _warning_: Value RDeff less than or equal to zero. Element : M4
+  _warning_: Value RSeff less than or equal to zero. Element : M4
+  _warning_: Value PDeff = 0 less than Weff. Element : M4
+  _warning_: Value PSeff = 0 less than Weff. Element : M4
+
+Circuit summary
+	Equations : 7
+	Elements  : 8
+
+	Type info
+	    BSIM3 : 8     (part types : 4)
+
+Total time of model creation: 0s  (CPU time 0.029s).
+
+SymProbe interprocess communication initialization... DONE
+SymProbe run... DONE
+SymProbe setup connection... DONE
+----------------------------------------------
+
+Simulation started:	21.53.42   02/12/2025.
+
+Parameter values:
+	start = 0 s
+	outputstart = 0 s
+	stop = 0 s
+	step = 0 s
+	maxstep = 1e-010 s
+	skipdc = no
+	reltol = 0.001
+	abstol(I) = 1e-012
+	abstol(V) = 1e-006
+	temp = 27 C
+	tnom = 27 C
+	method = trap
+	lteratio = 3.5
+	gmin = 1e-012
+	fast_spice = 0
+
+No DC path from node 'WE' to ground, Gmin installed to provide path.
+
+Operating point calculation started...
+Total time required for op. point calculation 0s  (CPU time 0.003s).
+
+Transient analysis started...
+
+  __error__: convergence problem. '.TRAN' not calculated.
+Number of tran steps = 0
+
+Simulation finished:	21.53.42   02/12/2025.
+
+Simulation time summary:
+Operating point = 0s  (CPU time 0.003s)
+Transient analysis = 0s  (CPU time 0.004s)
+
+Simulation failed
+
+Job ended at	21.53.42   02/12/2025.
+
+Job time summary:
+Total time used = 0s  (CPU time 0.567s)

@@ -1,0 +1,18 @@
+
+***** SymSpice --- v2.4.0.0528 *****
+
+Job started at	10.26.56   17/12/2025.
+
+Loading file: 'E:\Symica Free\share\spice.ini'. Please wait...       (10:26:56)
+Loading file: 'E:\Новая папка\LR_2_SH\MEM\mem_din\simulation\din\netlistmem_din'. Please wait...                                                     (10:26:56)
+Loading file: 'E:\Symica Free\lib\models\cmos.lib'. Please wait...   (10:26:56)
+Loading file: 'E:\Новая папка\LR_2_SH\MEM\mem_din\simulation\din\netlistmem_din'. Please wait...                                                     (10:26:56)
+  __error__: type 'nmos_mod1.1' of the element 'M0' unknown, subckt or model name expected
+  __error__: type 'nmos_mod1.1' of the element 'M1' unknown, subckt or model name expected
+  __error__: type 'nmos_mod1.1' of the element 'M5' unknown, subckt or model name expected
+  __error__: parsing of input file failed
+
+Job ended at	10.26.56   17/12/2025.
+
+Job time summary:
+Total time used = 0s  (CPU time 0.292s)

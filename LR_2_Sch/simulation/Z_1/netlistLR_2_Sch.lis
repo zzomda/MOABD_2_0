@@ -1,0 +1,92 @@
+
+***** SymSpice --- v2.4.0.0528 *****
+
+Job started at	13.14.51   18/10/2025.
+
+Loading file: 'C:\Program Files (x86)\Symica Free\share\spice.ini'. Please wait...                                                                   (13:14:51)
+Loading file: 'D:\L_1\LR_1\LR_SSHMT_!\LR_2_SH\LR_2_Sch\simulation\Z_1\netlistLR_2_Sch'. Please wait...                                               (13:14:51)
+Loading file: 'C:\Users\8221452\Desktop\models\bjt.lib'. Please wait...                                                                              (13:14:51)
+  _warning_: parameter 'icrating' for model 'KT940A' (type 'bjt') ignored
+  _warning_: parameter 'mfg' for model 'KT940A' (type 'bjt') ignored
+  _warning_: parameter 'rco' for model 'KT940A' (type 'bjt') ignored
+  _warning_: parameter 'vceo' for model 'KT940A' (type 'bjt') ignored
+Loading file: 'D:\L_1\LR_1\LR_SSHMT_!\LR_2_SH\LR_2_Sch\simulation\Z_1\netlistLR_2_Sch'. Please wait...                                               (13:14:51)
+
+Netlist summary (root)                                              (13:14:51)
+
+  Nodes   	5
+  Elements	5
+  _warning_: Multithreading is not available in Free Edition. "multithread" set to 1
+
+Multithreading
+	Number of used threads		: 1
+	Maximum number of threads	: 4
+
+Start creating models...
+
+
+Circuit summary
+	Equations : 8
+	Elements  : 5
+
+	Type info
+	      Vdc : 1    
+	     Vsin : 1    
+	 Resistor : 2     (part types : 2)
+	      BJT : 1     (part types : 1)
+
+Total time of model creation: 0s  (CPU time 0.000s).
+
+SymProbe interprocess communication initialization... DONE
+SymProbe run... DONE
+SymProbe setup connection... DONE
+----------------------------------------------
+
+Simulation started:	13.14.51   18/10/2025.
+
+Parameter values:
+	start = 0 s
+	outputstart = 0 s
+	stop = 0.001 s
+	step = 1e-006 s
+	maxstep = 0.01 s
+	skipdc = no
+	reltol = 0.001
+	abstol(I) = 1e-012
+	abstol(V) = 1e-006
+	temp = 27 C
+	tnom = 27 C
+	method = trap
+	lteratio = 3.5
+	gmin = 1e-012
+	fast_spice = 0
+
+Operating point calculation started...
+Total time required for op. point calculation 0s  (CPU time 0.000s).
+
+Transient analysis started...
+
+tran: time = 0s.                                                     (13:14:51)
+tran: time = 0.0001s.                                                (13:14:51)
+tran: time = 0.0002s.                                                (13:14:51)
+tran: time = 0.0003s.                                                (13:14:51)
+tran: time = 0.0004s.                                                (13:14:51)
+tran: time = 0.0005s.                                                (13:14:51)
+tran: time = 0.0006s.                                                (13:14:51)
+tran: time = 0.0007s.                                                (13:14:51)
+tran: time = 0.0008s.                                                (13:14:51)
+tran: time = 0.0009s.                                                (13:14:51)
+tran: time = 0.001s.                                                 (13:14:51)
+Number of tran steps = 123
+
+Simulation finished:	13.14.51   18/10/2025.
+
+Simulation time summary:
+Operating point = 0s  (CPU time 0.000s)
+Transient analysis = 0s  (CPU time 0.000s)
+
+
+Job ended at	13.14.51   18/10/2025.
+
+Job time summary:
+Total time used = 0s  (CPU time 0.470s)

@@ -1,0 +1,9 @@
+#1
+#E:\Новая папка\LR_2_SH\MEM\mem_din\simulation\din\netlistmem_din
+
+"E:\Symica Free\bin\symspice.exe" -probe -options "E:\Новая папка\LR_2_SH\MEM\mem_din\simulation\din\netlistmem_din.ppw" -o "E:\Новая папка\LR_2_SH\MEM\mem_din\simulation\din\netlistmem_din"  "E:\Новая папка\LR_2_SH\MEM\mem_din\simulation\din\netlistmem_din"
+#E:\Новая папка\LR_2_SH\MEM\mem_din\simulation\din\netlistmem_din.lis
+#
+
+#run_with_probe
+#

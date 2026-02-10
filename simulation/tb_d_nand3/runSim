@@ -1,0 +1,9 @@
+#1
+#E:\Новая папка\LR_2_SH\simulation\tb_d_nand3\netlistLR_2_SH_NID
+
+"E:\Symica Free\bin\symspice.exe" -probe -options "E:\Новая папка\LR_2_SH\simulation\tb_d_nand3\netlistLR_2_SH_NID.ppw" -o "E:\Новая папка\LR_2_SH\simulation\tb_d_nand3\netlistLR_2_SH_NID"  "E:\Новая папка\LR_2_SH\simulation\tb_d_nand3\netlistLR_2_SH_NID"
+#E:\Новая папка\LR_2_SH\simulation\tb_d_nand3\netlistLR_2_SH_NID.lis
+#
+
+#run_with_probe
+#

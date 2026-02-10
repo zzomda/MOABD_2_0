@@ -1,0 +1,9 @@
+#1
+#D:\L_1\LR_1\LR_SSHMT_!\LR_2_SH\simulation\TB_CMOS\netlistLR_2_SH
+
+"C:\Program Files (x86)\Symica Free\bin\symspice.exe" -probe -options "D:\L_1\LR_1\LR_SSHMT_!\LR_2_SH\simulation\TB_CMOS\netlistLR_2_SH.ppw" -o "D:\L_1\LR_1\LR_SSHMT_!\LR_2_SH\simulation\TB_CMOS\netlistLR_2_SH"  "D:\L_1\LR_1\LR_SSHMT_!\LR_2_SH\simulation\TB_CMOS\netlistLR_2_SH"
+#D:\L_1\LR_1\LR_SSHMT_!\LR_2_SH\simulation\TB_CMOS\netlistLR_2_SH.lis
+#
+
+#run_with_probe
+#

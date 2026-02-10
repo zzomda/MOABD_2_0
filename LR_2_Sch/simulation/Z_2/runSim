@@ -1,0 +1,9 @@
+#1
+#D:\L_1\LR_1\LR_SSHMT_!\LR_2_SH\LR_2_Sch\simulation\Z_2\netlistLR_2_Sch
+
+"C:\Program Files (x86)\Symica Free\bin\symspice.exe" -probe -options "D:\L_1\LR_1\LR_SSHMT_!\LR_2_SH\LR_2_Sch\simulation\Z_2\netlistLR_2_Sch.ppw" -o "D:\L_1\LR_1\LR_SSHMT_!\LR_2_SH\LR_2_Sch\simulation\Z_2\netlistLR_2_Sch"  "D:\L_1\LR_1\LR_SSHMT_!\LR_2_SH\LR_2_Sch\simulation\Z_2\netlistLR_2_Sch"
+#D:\L_1\LR_1\LR_SSHMT_!\LR_2_SH\LR_2_Sch\simulation\Z_2\netlistLR_2_Sch.lis
+#
+
+#run_with_probe
+#

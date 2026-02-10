@@ -1,0 +1,16 @@
+[options]
+PROBE_USE_SETTINGS = 1
+PROBE_OUTPUT_TYPE = 0
+PROBE_EXT_VP_NAME = 0
+[names]
+A = A
+B = B
+C_in = C_in
+c_out = c_out
+out_sum = out_sum
+[colors]
+A = 0
+B = 1
+C_in = 2
+c_out = 3
+out_sum = 4

@@ -1,0 +1,14 @@
+[options]
+PROBE_USE_SETTINGS = 1
+PROBE_OUTPUT_TYPE = 0
+PROBE_EXT_VP_NAME = 0
+[names]
+R_A = R_A
+W_A = W_A
+W_D = W_D
+Q0:e = Q0:e
+[colors]
+R_A = 0
+W_A = 1
+W_D = 2
+Q0:e = 3

@@ -1,0 +1,87 @@
+
+***** SymSpice --- v2.4.0.0528 *****
+
+Job started at	13.06.53   24/09/2025.
+
+Loading file: 'C:\Program Files (x86)\Symica Free\share\spice.ini'. Please wait...                                                                   (13:06:54)
+Loading file: 'D:\L_1\LR_1\LR_SSHMT_!\LR_2_SH\simulation\tb_poln_sum\netlistLR_2_SH'. Please wait...                                                 (13:06:54)
+Loading file: 'C:\Users\8221452\Desktop\models\mmapr_mos.lib'. Please wait...                                                                        (13:06:54)
+Loading file: 'D:\L_1\LR_1\LR_SSHMT_!\LR_2_SH\simulation\tb_poln_sum\netlistLR_2_SH'. Please wait...                                                 (13:06:54)
+
+Netlist summary (root)                                              (13:06:54)
+
+  Nodes   	107
+  Elements	227
+  _warning_: Multithreading is not available in Free Edition. "multithread" set to 1
+
+Multithreading
+	Number of used threads		: 1
+	Maximum number of threads	: 4
+
+Start creating models...
+
+
+Circuit summary
+	Equations : 117
+	Elements  : 227
+
+	Type info
+	      Vdc : 11   
+	Capacitor : 6     (part types : 1)
+	    BSIM3 : 210   (part types : 2)
+
+Total time of model creation: 0s  (CPU time 0.000s).
+
+SymProbe interprocess communication initialization... DONE
+SymProbe run... DONE
+SymProbe setup connection... DONE
+----------------------------------------------
+
+Simulation started:	13.06.54   24/09/2025.
+
+Parameter values:
+	start = 0 s
+	outputstart = 0 s
+	stop = 1e-008 s
+	step = 1e-011 s
+	maxstep = 1e-010 s
+	skipdc = no
+	reltol = 0.001
+	abstol(I) = 1e-012
+	abstol(V) = 1e-006
+	temp = 27 C
+	tnom = 27 C
+	method = trap
+	lteratio = 3.5
+	gmin = 1e-012
+	fast_spice = 0
+
+Operating point calculation started...
+Total time required for op. point calculation 0s  (CPU time 0.020s).
+
+Transient analysis started...
+
+tran: time = 0s.                                                     (13:06:54)
+tran: time = 1e-009s.                                                (13:06:54)
+tran: time = 2e-009s.                                                (13:06:54)
+tran: time = 3e-009s.                                                (13:06:54)
+tran: time = 4e-009s.                                                (13:06:54)
+tran: time = 5e-009s.                                                (13:06:54)
+tran: time = 6e-009s.                                                (13:06:54)
+tran: time = 7e-009s.                                                (13:06:54)
+tran: time = 8e-009s.                                                (13:06:54)
+tran: time = 9e-009s.                                                (13:06:54)
+tran: time = 1e-008s.                                                (13:06:54)
+Number of tran steps = 102
+
+Simulation finished:	13.06.54   24/09/2025.
+
+Simulation time summary:
+Operating point = 0s  (CPU time 0.020s)
+Transient analysis = 0s  (CPU time 0.090s)
+
+
+Job ended at	13.06.54   24/09/2025.
+
+Job time summary:
+Total time used = 1s  (CPU time 1.040s)

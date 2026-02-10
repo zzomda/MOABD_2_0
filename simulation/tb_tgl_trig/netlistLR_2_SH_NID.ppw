@@ -1,0 +1,20 @@
+[options]
+PROBE_USE_SETTINGS = 1
+PROBE_OUTPUT_TYPE = 0
+PROBE_EXT_VP_NAME = 0
+[names]
+CLK = CLK
+D = D
+RSTB = RSTB
+SETB = SETB
+Q = Q
+q1 = q1
+q2 = q2
+[colors]
+CLK = 1
+D = 2
+RSTB = 3
+SETB = 4
+Q = 6
+q1 = 7
+q2 = 8
