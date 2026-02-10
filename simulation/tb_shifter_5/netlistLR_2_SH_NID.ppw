@@ -1,0 +1,14 @@
+[options]
+PROBE_USE_SETTINGS = 1
+PROBE_OUTPUT_TYPE = 0
+PROBE_EXT_VP_NAME = 0
+[names]
+clk = clk
+data = data
+Q = Q
+n1_4 = n1_4
+[colors]
+clk = 4
+data = 5
+Q = 6
+n1_4 = 8
