@@ -1,0 +1,10 @@
+[options]
+PROBE_USE_SETTINGS = 1
+PROBE_OUTPUT_TYPE = 0
+PROBE_EXT_VP_NAME = 0
+[names]
+C0:1 = C0:1
+C1:1 = C1:1
+[colors]
+C0:1 = 0
+C1:1 = 1

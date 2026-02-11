@@ -1,0 +1,9 @@
+#1
+#E:\WORCK\LR_2_SH\simulation\tb_spec_fun\netlistLR_2_SH_NID
+
+"E:\Symica Free\bin\symspice.exe" -probe -options "E:\WORCK\LR_2_SH\simulation\tb_spec_fun\netlistLR_2_SH_NID.ppw" -o "E:\WORCK\LR_2_SH\simulation\tb_spec_fun\netlistLR_2_SH_NID"  "E:\WORCK\LR_2_SH\simulation\tb_spec_fun\netlistLR_2_SH_NID"
+#E:\WORCK\LR_2_SH\simulation\tb_spec_fun\netlistLR_2_SH_NID.lis
+#
+
+#run_with_probe
+#
