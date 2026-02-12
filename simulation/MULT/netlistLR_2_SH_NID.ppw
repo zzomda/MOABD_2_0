@@ -1,0 +1,18 @@
+[options]
+PROBE_USE_SETTINGS = 1
+PROBE_OUTPUT_TYPE = 0
+PROBE_EXT_VP_NAME = 0
+[names]
+OUT_0 = OUT<0>
+OUT_1 = OUT<1>
+OUT_2 = OUT<2>
+OUT_3 = OUT<3>
+OUT_4 = OUT<4>
+OUT_5 = OUT<5>
+[colors]
+OUT_0 = 1
+OUT_1 = 2
+OUT_2 = 3
+OUT_3 = 4
+OUT_4 = 5
+OUT_5 = 6
