@@ -1,0 +1,20 @@
+[options]
+PROBE_USE_SETTINGS = 1
+PROBE_OUTPUT_TYPE = 0
+PROBE_EXT_VP_NAME = 0
+[names]
+IN_0 = IN<0>
+IN_1 = IN<1>
+IN_2 = IN<2>
+OUT_0 = OUT<0>
+OUT_1 = OUT<1>
+OUT_2 = OUT<2>
+OUT_3 = OUT<3>
+[colors]
+IN_0 = 8
+IN_1 = 9
+IN_2 = 10
+OUT_0 = 11
+OUT_1 = 0
+OUT_2 = 1
+OUT_3 = 2

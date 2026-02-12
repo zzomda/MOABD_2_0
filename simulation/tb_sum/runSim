@@ -1,8 +1,8 @@
 #1
-#D:\L_1\LR_1\LR_SSHMT_!\LR_2_SH\simulation\tb_sum\netlistLR_2_SH
+#E:\WORCK\LR_2_SH\simulation\tb_sum\netlistLR_2_SH_NID
 
-"C:\Program Files (x86)\Symica Free\bin\symspice.exe" -probe -options "D:\L_1\LR_1\LR_SSHMT_!\LR_2_SH\simulation\tb_sum\netlistLR_2_SH.ppw" -o "D:\L_1\LR_1\LR_SSHMT_!\LR_2_SH\simulation\tb_sum\netlistLR_2_SH"  "D:\L_1\LR_1\LR_SSHMT_!\LR_2_SH\simulation\tb_sum\netlistLR_2_SH"
-#D:\L_1\LR_1\LR_SSHMT_!\LR_2_SH\simulation\tb_sum\netlistLR_2_SH.lis
+"E:\Symica Free\bin\symspice.exe" -probe -options "E:\WORCK\LR_2_SH\simulation\tb_sum\netlistLR_2_SH_NID.ppw" -o "E:\WORCK\LR_2_SH\simulation\tb_sum\netlistLR_2_SH_NID"  "E:\WORCK\LR_2_SH\simulation\tb_sum\netlistLR_2_SH_NID"
+#E:\WORCK\LR_2_SH\simulation\tb_sum\netlistLR_2_SH_NID.lis
 #
 
 #run_with_probe
