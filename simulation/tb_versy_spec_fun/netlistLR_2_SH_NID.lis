@@ -1,14 +1,14 @@
 
 ***** SymSpice --- v2.4.0.0528 *****
 
-Job started at	23.35.15   11/02/2026.
+Job started at	19.34.46   12/02/2026.
 
-Loading file: 'E:\Symica Free\share\spice.ini'. Please wait...       (23:35:15)
-Loading file: 'E:\WORCK\LR_2_SH\simulation\tb_versy_spec_fun\netlistLR_2_SH_NID'. Please wait...                                                     (23:35:15)
-Loading file: 'E:\Symica Free\lib\models\mos.lib'. Please wait...    (23:35:15)
-Loading file: 'E:\WORCK\LR_2_SH\simulation\tb_versy_spec_fun\netlistLR_2_SH_NID'. Please wait...                                                     (23:35:15)
+Loading file: 'E:\Symica Free\share\spice.ini'. Please wait...       (19:34:46)
+Loading file: 'E:\WORCK\LR_2_SH\simulation\tb_versy_spec_fun\netlistLR_2_SH_NID'. Please wait...                                                     (19:34:46)
+Loading file: 'E:\Symica Free\lib\models\mos.lib'. Please wait...    (19:34:46)
+Loading file: 'E:\WORCK\LR_2_SH\simulation\tb_versy_spec_fun\netlistLR_2_SH_NID'. Please wait...                                                     (19:34:46)
 
-Netlist summary (root)                                              (23:35:15)
+Netlist summary (root)                                              (19:34:46)
 
   Nodes   	77
   Elements	148
@@ -31,14 +31,14 @@ Circuit summary
 	Capacitor : 1     (part types : 1)
 	    BSIM3 : 142   (part types : 2)
 
-Total time of model creation: 0s  (CPU time 0.485s).
+Total time of model creation: 0s  (CPU time 0.034s).
 
 SymProbe interprocess communication initialization... DONE
 SymProbe run... DONE
 SymProbe setup connection... DONE
 ----------------------------------------------
 
-Simulation started:	23.35.17   11/02/2026.
+Simulation started:	19.34.46   12/02/2026.
 
 Parameter values:
 	start = 0 s
@@ -62,27 +62,27 @@ Total time required for op. point calculation 0s  (CPU time 0.008s).
 
 Transient analysis started...
 
-tran: time = 0s.                                                     (23:35:18)
-tran: time = 3.5e-008s.                                              (23:35:18)
-tran: time = 7e-008s.                                                (23:35:18)
-tran: time = 1.05e-007s.                                             (23:35:19)
-tran: time = 1.4e-007s.                                              (23:35:19)
-tran: time = 1.75e-007s.                                             (23:35:19)
-tran: time = 2.1e-007s.                                              (23:35:19)
-tran: time = 2.45e-007s.                                             (23:35:22)
-tran: time = 2.8e-007s.                                              (23:35:22)
-tran: time = 3.15e-007s.                                             (23:35:22)
-tran: time = 3.5e-007s.                                              (23:35:23)
-Number of tran steps = 5231
+tran: time = 0s.                                                     (19:34:46)
+tran: time = 3.5e-008s.                                              (19:34:46)
+tran: time = 7e-008s.                                                (19:34:47)
+tran: time = 1.05e-007s.                                             (19:34:47)
+tran: time = 1.4e-007s.                                              (19:34:47)
+tran: time = 1.75e-007s.                                             (19:34:47)
+tran: time = 2.1e-007s.                                              (19:34:47)
+tran: time = 2.45e-007s.                                             (19:34:47)
+tran: time = 2.8e-007s.                                              (19:34:48)
+tran: time = 3.15e-007s.                                             (19:34:48)
+tran: time = 3.5e-007s.                                              (19:34:48)
+Number of tran steps = 4966
 
-Simulation finished:	23.35.23   11/02/2026.
+Simulation finished:	19.34.48   12/02/2026.
 
 Simulation time summary:
 Operating point = 0s  (CPU time 0.008s)
-Transient analysis = 5s  (CPU time 4.514s)
+Transient analysis = 2s  (CPU time 1.681s)
 
 
-Job ended at	23.35.23   11/02/2026.
+Job ended at	19.34.48   12/02/2026.
 
 Job time summary:
-Total time used = 8s  (CPU time 8.101s)
+Total time used = 2s  (CPU time 2.470s)

@@ -1,0 +1,50 @@
+// DSCH 2.7f
+// 12.02.2026 19:54:51
+// E:\WORCK\LR_2_SH\dsch\spec_fun.sch
+
+module spec_fun( d,c,b,a,out1);
+ input d,c,b,a;
+ output out1;
+ or #(1) or(w4,w1,b,w3);
+ or #(1) or(w8,w5,w6,d);
+ and #(1) and(out1,w9,w10);
+ and #(1) and(w9,w12,w13,w14);
+ and #(1) and(w10,w4,w8,w15);
+ or #(1) or(w18,w16,w17);
+ or #(1) or(w21,c,w20);
+ or #(1) or(w15,w18,w21);
+ or #(1) or(w12,w22,w23);
+ or #(1) or(w23,c,d);
+ or #(1) or(w22,a,w25);
+ or #(1) or(w27,a,w26);
+ or #(1) or(w30,w28,w29);
+ or #(1) or(w13,w27,w30);
+ or #(1) or(w31,a,b);
+ or #(1) or(w33,c,w32);
+ or #(1) or(w14,w31,w33);
+ not #(1) inv(w32,d);
+ not #(1) inv(w1,a);
+ not #(1) inv(w3,c);
+ not #(1) inv(w5,a);
+ not #(1) inv(w6,c);
+ not #(1) inv(w16,a);
+ not #(1) inv(w17,b);
+ not #(1) inv(w20,d);
+ not #(1) inv(w25,b);
+ not #(1) inv(w26,b);
+ not #(1) inv(w28,c);
+ not #(1) inv(w29,d);
+endmodule
+
+// Simulation parameters in Verilog Format
+always
+#40 d=~d;
+#80 c=~c;
+#160 b=~b;
+#320 a=~a;
+
+// Simulation parameters
+// d CLK 40.000 40.000
+// c CLK 80.000 80.000
+// b CLK 160.000 160.000
+// a CLK 320.000 320.000
