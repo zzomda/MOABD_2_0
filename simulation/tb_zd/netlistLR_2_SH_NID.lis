@@ -1,0 +1,16 @@
+
+***** SymSpice --- v2.4.0.0528 *****
+
+Job started at	20.52.09   13/02/2026.
+
+Loading file: 'E:\Symica Free\share\spice.ini'. Please wait...       (20:52:09)
+Loading file: 'E:\WORCK\LR_2_SH\simulation\tb_zd\netlistLR_2_SH_NID'. Please wait...                                                                 (20:52:09)
+Loading file: 'E:\Symica Free\lib\models\mos.lib'. Please wait...    (20:52:09)
+Loading file: 'E:\WORCK\LR_2_SH\simulation\tb_zd\netlistLR_2_SH_NID'. Please wait...                                                                 (20:52:09)
+  __error__: simulation of circuits with more than 300 elements is not available in Free Edition
+  __error__: parsing of input file failed
+
+Job ended at	20.52.10   13/02/2026.
+
+Job time summary:
+Total time used = 1s  (CPU time 0.732s)

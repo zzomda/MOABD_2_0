@@ -3,6 +3,16 @@ PROBE_USE_SETTINGS = 1
 PROBE_OUTPUT_TYPE = 0
 PROBE_EXT_VP_NAME = 0
 [names]
-A = A
+a = a
+b = b
+c = c
+d = d
+e = e
+clk = clk
 [colors]
-A = 0
+a = 0
+b = 1
+c = 2
+d = 3
+e = 4
+clk = 5
