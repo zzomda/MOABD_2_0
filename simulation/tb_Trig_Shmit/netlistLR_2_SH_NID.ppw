@@ -1,0 +1,10 @@
+[options]
+PROBE_USE_SETTINGS = 1
+PROBE_OUTPUT_TYPE = 0
+PROBE_EXT_VP_NAME = 0
+[names]
+n1_1 = n1_1
+Q = Q
+[colors]
+n1_1 = 0
+Q = 1
