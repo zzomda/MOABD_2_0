@@ -1,0 +1,18 @@
+[options]
+PROBE_USE_SETTINGS = 1
+PROBE_OUTPUT_TYPE = 0
+PROBE_EXT_VP_NAME = 0
+[names]
+clk = clk
+S = S
+Select = Select
+OUT_0 = OUT<0>
+OUT_1 = OUT<1>
+OUT_2 = OUT<2>
+[colors]
+clk = 0
+S = 1
+Select = 2
+OUT_0 = 3
+OUT_1 = 4
+OUT_2 = 5

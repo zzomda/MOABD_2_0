@@ -1,0 +1,20 @@
+[options]
+PROBE_USE_SETTINGS = 1
+PROBE_OUTPUT_TYPE = 0
+PROBE_EXT_VP_NAME = 0
+[names]
+n1_1 = n1_1
+n1_5 = n1_5
+Q_parsalel_0 = Q_parsalel<0>
+Q_parsalel_1 = Q_parsalel<1>
+Q_parsalel_2 = Q_parsalel<2>
+Q_parsalel_3 = Q_parsalel<3>
+n1_7 = n1_7
+[colors]
+n1_1 = 0
+n1_5 = 3
+Q_parsalel_0 = 4
+Q_parsalel_1 = 5
+Q_parsalel_2 = 6
+Q_parsalel_3 = 7
+n1_7 = 8

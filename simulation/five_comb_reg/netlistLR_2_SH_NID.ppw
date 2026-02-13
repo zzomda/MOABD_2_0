@@ -1,0 +1,14 @@
+[options]
+PROBE_USE_SETTINGS = 1
+PROBE_OUTPUT_TYPE = 0
+PROBE_EXT_VP_NAME = 0
+[names]
+CLK = CLK
+Select = Select
+n1_4 = n1_4
+OUT_para_0 = OUT_para<0>
+[colors]
+CLK = 7
+Select = 8
+n1_4 = 9
+OUT_para_0 = 10

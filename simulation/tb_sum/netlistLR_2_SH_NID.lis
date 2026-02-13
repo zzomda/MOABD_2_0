@@ -1,23 +1,19 @@
 
 ***** SymSpice --- v2.4.0.0528 *****
 
-Job started at	21.02.57   12/02/2026.
+Job started at	12.44.18   13/02/2026.
 
-Loading file: 'E:\Symica Free\share\spice.ini'. Please wait...       (21:02:57)
-Loading file: 'E:\WORCK\LR_2_SH\simulation\tb_sum\netlistLR_2_SH_NID'. Please wait...                                                                (21:02:57)
-Loading file: 'E:\Symica Free\lib\models\mos.lib'. Please wait...    (21:02:57)
-Loading file: 'E:\WORCK\LR_2_SH\simulation\tb_sum\netlistLR_2_SH_NID'. Please wait...                                                                (21:02:57)
+Loading file: 'E:\Symica Free\share\spice.ini'. Please wait...       (12:44:18)
+Loading file: 'E:\WORCK\LR_2_SH\simulation\tb_sum\netlistLR_2_SH_NID'. Please wait...                                                                (12:44:18)
+Loading file: 'E:\Symica Free\lib\models\mos.lib'. Please wait...    (12:44:18)
+Loading file: 'E:\WORCK\LR_2_SH\simulation\tb_sum\netlistLR_2_SH_NID'. Please wait...                                                                (12:44:18)
 
-Netlist summary (root)                                              (21:02:57)
+Netlist summary (root)                                              (12:44:18)
 
-  Nodes   	49
-  Elements	72
-  _warning_: node 'c_out' floating
+  Nodes   	30
+  Elements	54
   _warning_: node 'out_sum' floating
-  _warning_: node 'A' floating
-  _warning_: node 'B' floating
-  _warning_: node 'C_in' floating
-Count of floating nodes: 5
+Count of floating nodes: 1
   _warning_: Multithreading is not available in Free Edition. "multithread" set to 1
 
 Multithreading
@@ -28,30 +24,30 @@ Start creating models...
 
 
 Circuit summary
-	Equations : 52
-	Elements  : 72
+	Equations : 33
+	Elements  : 54
 
 	Type info
 	      Vdc : 1    
 	   Vpulse : 3    
 	Capacitor : 2     (part types : 1)
-	    BSIM3 : 66    (part types : 2)
+	    BSIM3 : 48    (part types : 2)
 
-Total time of model creation: 0s  (CPU time 0.034s).
+Total time of model creation: 0s  (CPU time 0.035s).
 
 SymProbe interprocess communication initialization... DONE
 SymProbe run... DONE
 SymProbe setup connection... DONE
 ----------------------------------------------
 
-Simulation started:	21.02.57   12/02/2026.
+Simulation started:	12.44.18   13/02/2026.
 
 Parameter values:
 	start = 0 s
 	outputstart = 0 s
-	stop = 3e-007 s
-	step = 3e-010 s
-	maxstep = 6e-009 s
+	stop = 2e-007 s
+	step = 2e-010 s
+	maxstep = 1e-010 s
 	skipdc = no
 	reltol = 0.001
 	abstol(I) = 1e-012
@@ -63,44 +59,37 @@ Parameter values:
 	gmin = 1e-012
 	fast_spice = 0
 
-No DC path from node 'c_out' to ground, Gmin installed to provide path.
 No DC path from node 'out_sum' to ground, Gmin installed to provide path.
-No DC path from node 'n7_0_4' to ground, Gmin installed to provide path.
-No DC path from node 'n7_0_2' to ground, Gmin installed to provide path.
-No DC path from node 'n7_0_8' to ground, Gmin installed to provide path.
-No DC path from node 'n7_0_1' to ground, Gmin installed to provide path.
-No DC path from node 'n7_0_3' to ground, Gmin installed to provide path.
-No DC path from node 'n7_0_9' to ground, Gmin installed to provide path.
-No DC path from node 'n7_0_6' to ground, Gmin installed to provide path.
-No DC path from node 'n7_0_7' to ground, Gmin installed to provide path.
-No DC path from node 'n7_0_5' to ground, Gmin installed to provide path.
+No DC path from node 'n16_1' to ground, Gmin installed to provide path.
+No DC path from node 'n16_2' to ground, Gmin installed to provide path.
+No DC path from node 'n16_3' to ground, Gmin installed to provide path.
 
 Operating point calculation started...
 Total time required for op. point calculation 0s  (CPU time 0.005s).
 
 Transient analysis started...
 
-tran: time = 0s.                                                     (21:02:57)
-tran: time = 3e-008s.                                                (21:02:57)
-tran: time = 6e-008s.                                                (21:02:57)
-tran: time = 9e-008s.                                                (21:02:57)
-tran: time = 1.2e-007s.                                              (21:02:57)
-tran: time = 1.5e-007s.                                              (21:02:57)
-tran: time = 1.8e-007s.                                              (21:02:57)
-tran: time = 2.1e-007s.                                              (21:02:57)
-tran: time = 2.4e-007s.                                              (21:02:57)
-tran: time = 2.7e-007s.                                              (21:02:57)
-tran: time = 3e-007s.                                                (21:02:57)
-Number of tran steps = 84
+tran: time = 0s.                                                     (12:44:19)
+tran: time = 2e-008s.                                                (12:44:19)
+tran: time = 4e-008s.                                                (12:44:19)
+tran: time = 6e-008s.                                                (12:44:19)
+tran: time = 8e-008s.                                                (12:44:19)
+tran: time = 1e-007s.                                                (12:44:19)
+tran: time = 1.2e-007s.                                              (12:44:19)
+tran: time = 1.4e-007s.                                              (12:44:19)
+tran: time = 1.6e-007s.                                              (12:44:19)
+tran: time = 1.8e-007s.                                              (12:44:19)
+tran: time = 2e-007s.                                                (12:44:19)
+Number of tran steps = 2079
 
-Simulation finished:	21.02.57   12/02/2026.
+Simulation finished:	12.44.19   13/02/2026.
 
 Simulation time summary:
 Operating point = 0s  (CPU time 0.005s)
-Transient analysis = 0s  (CPU time 0.066s)
+Transient analysis = 0s  (CPU time 0.281s)
 
 
-Job ended at	21.02.57   12/02/2026.
+Job ended at	12.44.19   13/02/2026.
 
 Job time summary:
-Total time used = 0s  (CPU time 0.670s)
+Total time used = 1s  (CPU time 1.022s)
