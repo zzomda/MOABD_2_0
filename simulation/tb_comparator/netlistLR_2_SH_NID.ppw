@@ -1,0 +1,12 @@
+[options]
+PROBE_USE_SETTINGS = 1
+PROBE_OUTPUT_TYPE = 0
+PROBE_EXT_VP_NAME = 0
+[names]
+a_bol_b = a_bol_b
+a_eql_b = a_eql_b
+a_men_b = a_men_b
+[colors]
+a_bol_b = 0
+a_eql_b = 1
+a_men_b = 2

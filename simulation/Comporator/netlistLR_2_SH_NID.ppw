@@ -1,0 +1,12 @@
+[options]
+PROBE_USE_SETTINGS = 1
+PROBE_OUTPUT_TYPE = 0
+PROBE_EXT_VP_NAME = 0
+[names]
+n25_4 = n25_4
+eq2 = eq2
+eq1 = eq1
+[colors]
+n25_4 = 0
+eq2 = 1
+eq1 = 2
