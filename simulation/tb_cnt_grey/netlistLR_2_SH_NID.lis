@@ -1,14 +1,14 @@
 
 ***** SymSpice --- v2.4.0.0528 *****
 
-Job started at	16.35.14   13/02/2026.
+Job started at	15.03.25   14/02/2026.
 
-Loading file: 'E:\Symica Free\share\spice.ini'. Please wait...       (16:35:14)
-Loading file: 'E:\WORCK\LR_2_SH\simulation\tb_cnt_grey\netlistLR_2_SH_NID'. Please wait...                                                           (16:35:14)
-Loading file: 'E:\Symica Free\lib\models\mos.lib'. Please wait...    (16:35:14)
-Loading file: 'E:\WORCK\LR_2_SH\simulation\tb_cnt_grey\netlistLR_2_SH_NID'. Please wait...                                                           (16:35:14)
+Loading file: 'E:\Symica Free\share\spice.ini'. Please wait...       (15:03:25)
+Loading file: 'E:\WORCK\LR_2_SH\simulation\tb_cnt_grey\netlistLR_2_SH_NID'. Please wait...                                                           (15:03:25)
+Loading file: 'E:\Symica Free\lib\models\mos.lib'. Please wait...    (15:03:25)
+Loading file: 'E:\WORCK\LR_2_SH\simulation\tb_cnt_grey\netlistLR_2_SH_NID'. Please wait...                                                           (15:03:25)
 
-Netlist summary (root)                                              (16:35:14)
+Netlist summary (root)                                              (15:03:25)
 
   Nodes   	53
   Elements	123
@@ -31,20 +31,20 @@ Circuit summary
 	Capacitor : 6     (part types : 1)
 	    BSIM3 : 114   (part types : 2)
 
-Total time of model creation: 0s  (CPU time 0.035s).
+Total time of model creation: 1s  (CPU time 0.032s).
 
 SymProbe interprocess communication initialization... DONE
 SymProbe run... DONE
 SymProbe setup connection... DONE
 ----------------------------------------------
 
-Simulation started:	16.35.14   13/02/2026.
+Simulation started:	15.03.26   14/02/2026.
 
 Parameter values:
 	start = 0 s
 	outputstart = 0 s
-	stop = 4e-007 s
-	step = 4e-010 s
+	stop = 4.5e-007 s
+	step = 4.5e-010 s
 	maxstep = 1e-010 s
 	skipdc = no
 	reltol = 0.001
@@ -58,31 +58,31 @@ Parameter values:
 	fast_spice = 0
 
 Operating point calculation started...
-Total time required for op. point calculation 0s  (CPU time 0.006s).
+Total time required for op. point calculation 0s  (CPU time 0.005s).
 
 Transient analysis started...
 
-tran: time = 0s.                                                     (16:35:14)
-tran: time = 4e-008s.                                                (16:35:14)
-tran: time = 8e-008s.                                                (16:35:15)
-tran: time = 1.2e-007s.                                              (16:35:15)
-tran: time = 1.6e-007s.                                              (16:35:15)
-tran: time = 2e-007s.                                                (16:35:15)
-tran: time = 2.4e-007s.                                              (16:35:15)
-tran: time = 2.8e-007s.                                              (16:35:16)
-tran: time = 3.2e-007s.                                              (16:35:17)
-tran: time = 3.6e-007s.                                              (16:35:17)
-tran: time = 4e-007s.                                                (16:35:17)
-Number of tran steps = 5042
+tran: time = 0s.                                                     (15:03:26)
+tran: time = 4.5e-008s.                                              (15:03:26)
+tran: time = 9e-008s.                                                (15:03:26)
+tran: time = 1.35e-007s.                                             (15:03:26)
+tran: time = 1.8e-007s.                                              (15:03:26)
+tran: time = 2.25e-007s.                                             (15:03:26)
+tran: time = 2.7e-007s.                                              (15:03:27)
+tran: time = 3.15e-007s.                                             (15:03:27)
+tran: time = 3.6e-007s.                                              (15:03:27)
+tran: time = 4.05e-007s.                                             (15:03:27)
+tran: time = 4.5e-007s.                                              (15:03:27)
+Number of tran steps = 5672
 
-Simulation finished:	16.35.17   13/02/2026.
+Simulation finished:	15.03.27   14/02/2026.
 
 Simulation time summary:
-Operating point = 0s  (CPU time 0.006s)
-Transient analysis = 3s  (CPU time 2.427s)
+Operating point = 0s  (CPU time 0.005s)
+Transient analysis = 1s  (CPU time 1.365s)
 
 
-Job ended at	16.35.17   13/02/2026.
+Job ended at	15.03.27   14/02/2026.
 
 Job time summary:
-Total time used = 3s  (CPU time 3.264s)
+Total time used = 2s  (CPU time 2.093s)

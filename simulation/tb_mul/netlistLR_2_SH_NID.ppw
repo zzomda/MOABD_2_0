@@ -10,9 +10,9 @@ OUT_3 = OUT<3>
 OUT_4 = OUT<4>
 OUT_5 = OUT<5>
 [colors]
-OUT_0 = 3
-OUT_1 = 4
-OUT_2 = 5
-OUT_3 = 6
-OUT_4 = 7
-OUT_5 = 8
+OUT_0 = 0
+OUT_1 = 1
+OUT_2 = 2
+OUT_3 = 3
+OUT_4 = 4
+OUT_5 = 5

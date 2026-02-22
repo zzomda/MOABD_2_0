@@ -1,0 +1,16 @@
+[options]
+PROBE_USE_SETTINGS = 1
+PROBE_OUTPUT_TYPE = 0
+PROBE_EXT_VP_NAME = 0
+[names]
+b = b
+c = c
+d = d
+e = e
+clk = clk
+[colors]
+b = 0
+c = 1
+d = 2
+e = 3
+clk = 4

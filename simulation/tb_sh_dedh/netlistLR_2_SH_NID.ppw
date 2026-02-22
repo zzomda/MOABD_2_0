@@ -11,10 +11,10 @@ OUT_1 = OUT<1>
 OUT_2 = OUT<2>
 OUT_3 = OUT<3>
 [colors]
-IN_0 = 8
-IN_1 = 9
-IN_2 = 10
-OUT_0 = 11
-OUT_1 = 0
-OUT_2 = 1
-OUT_3 = 2
+IN_0 = 0
+IN_1 = 1
+IN_2 = 2
+OUT_0 = 3
+OUT_1 = 4
+OUT_2 = 5
+OUT_3 = 6

@@ -8,11 +8,9 @@ b = b
 c = c
 d = d
 e = e
-clk = clk
 [colors]
 a = 0
 b = 1
 c = 2
 d = 3
 e = 4
-clk = 5
